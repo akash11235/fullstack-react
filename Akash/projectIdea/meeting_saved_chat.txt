@@ -1,0 +1,14 @@
+09:18:10	 From  Brandi Cotton : hi everyone
+09:19:42	 From  Luis : Hi Brandi
+09:48:27	 From  Eliot (Tech) : I’ll be right back.
+09:48:38	 From  Eliot (Tech) : need to put my daughter back in her bed.
+09:50:34	 From  Eliot (Tech) : I’m back.
+09:57:32	 From  Luis : https://jpmcsso.jpmorgan.com/sso/action/federateLogin?domainName=chase.com*jpmchase.com*jpmorganchase.com&URI=https%3a%2f%2fdeveloper.jpmorgan.com%2f&msg=+&securityLevel=0&cs=dqPUSV8%2fGgHTqO0IBI1ctviamPM%3d
+09:57:53	 From  Luis : https://developer.bankofamerica.com/CPODevPortal/apidocs/public/APIDevPortal.html#/home
+10:22:56	 From  Brandi Cotton : I've got to get going.have a great rest of your day
+10:23:09	 From  Luis : Ok Brandi
+10:23:23	 From  Eliot (Tech) : See you brandi, thanks for saying hello.
+10:23:29	 From  Luis : https://www.draw.io/ <-- This has some diagram options
+10:24:12	 From  Eliot (Tech) : I’m building one in figma.com looks ok.
+10:41:47	 From  Luis : You got your architecture done Elliot?
+11:06:15	 From  Eliot (Tech) : Jana are you with us still?
