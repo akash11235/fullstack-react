@@ -45,7 +45,7 @@ _[Enter Ak, Lu]_
     **El:** Probably No idea what that is.  
     **Ak:** So, this is where we probably are regarding UML. You can perhaps use simple ones which we'll be able to grasp.  
     **Lu:** Its a good language to communicate complex ideas but if we dont know it, then it will be counter  
-        productive in discussions of the projects.  
+        productive in discussions of the projects.And we also dont need to know all 20 of them. Only 3-4 of them are important.  
     **Ak**: ok, looks like we are done here.. thank you guys, see you at the next meetup..
 
 _[Exuent all]_
